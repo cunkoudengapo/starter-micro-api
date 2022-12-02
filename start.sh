@@ -1,0 +1,1 @@
+node local.js -s shadowsocks-over-websocks.herokuapp.com -l 1080 -m aes-256-cfb -k EXIGENSUZ -p 80

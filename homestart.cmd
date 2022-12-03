@@ -1,0 +1,2 @@
+rem node local.js -s shadowsocks-over-websocks.herokuapp.com -b 192.168.79.6 -l 1080 -m aes-256-cfb -k EXIGENSUZ -p 80
+node local.js -s shadowsocks-over-websocks.herokuapp.com -b 192.168.79.6 -l 1080 -m aes-256-cfb -k EXIGENSUZ -p 80
